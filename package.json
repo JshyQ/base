@@ -1,7 +1,7 @@
 {
   "name": "Fauzialifatah",
   "version": "1.0.0",
-  "description": "ESM and CJS error? fix sendiri",
+  "description": "ESM and CJS error fix",
   "main": "index.js",
   "type": "module",
   "scripts": {
